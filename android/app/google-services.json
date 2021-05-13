@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "325277895481",
+    "project_id": "basicbankingsystem-12390",
+    "storage_bucket": "basicbankingsystem-12390.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:325277895481:android:f8e14cb9dc51d61eacf6e8",
+        "android_client_info": {
+          "package_name": "com.example.mbbs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "325277895481-l40k5fhvb6s6o4bpuq0c2falps5foodh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mbbs",
+            "certificate_hash": "c9bb23872bfdc94ae8bf3e8578d768df154571f5"
+          }
+        },
+        {
+          "client_id": "325277895481-u00tm6u9hol8lr0v791qqeluuk229ak3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8PRMhcL3ATDuCFDQFMw-a1lKBO2U7c-0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "325277895481-u00tm6u9hol8lr0v791qqeluuk229ak3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
